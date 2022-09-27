@@ -2,7 +2,7 @@ import random
 import string
 from colorama import Fore
 
-words = ["Messi", "Cristiano", "Xavi", "Iniesta", "Ibrahimovic", "Pirlo", "Aguero", "Salah", "test test", "test-test"]
+words = ["Messi", "Cristiano", "Xavi", "Iniesta", "Ibrahimovic", "Pirlo", "Aguero","abotrukia", "Salah", "test test", "test-test"]
 
 def random_word():
     word = random.choice(words)
